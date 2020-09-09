@@ -1,7 +1,7 @@
 # Darcy Shen
 ## Project
-+ GNU TeXmacs
-+ Apache Spark
++ Maintainer/Developer of GNU TeXmacs
++ Contributor of Apache Spark
 
 ## Books
 + 《Scala实用指南》([豆瓣](https://book.douban.com/subject/30249691/)/[异步社区](https://www.epubit.com/bookDetails?id=N14723))
