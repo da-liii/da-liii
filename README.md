@@ -15,5 +15,6 @@
 + 『2019』「原创」: [Scala元编程：实现lombok.Data](https://zhuanlan.zhihu.com/p/53777641)
 + 『2019』「原创」: [Scala元编程：在日志库中的应用](https://zhuanlan.zhihu.com/p/63778824)
 + 『2018』「原创」: [Json4s简明指南](https://zhuanlan.zhihu.com/p/51860658)
++ 『2018』「原创」: [《Scala实用指南》译者序二](https://zhuanlan.zhihu.com/p/48757176)
 + 『2016』「原创」: [Bash Scripting Basics](https://zhuanlan.zhihu.com/p/229478715)
 + 『2013』「译文」: [GNU TeXmacs哲学：为什么自由对科学家们而言很重要](https://zhuanlan.zhihu.com/p/47213440)
