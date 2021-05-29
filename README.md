@@ -1,4 +1,8 @@
 # Darcy Shen
+## Language
++ 吴语/中文/English
++ Scala/Python/C++/Scheme
+
 ## Project
 + Maintainer/Developer of GNU TeXmacs
 + Contributor of Apache Spark
