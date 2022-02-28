@@ -5,7 +5,7 @@
 
 ## Meetups/Slides/Videos
 + 『2022』漫谈数据和AI的融合：Rikai核心设计 ([Slides and Video](https://www.slidestalk.com/rikai/RikaiCoreDesign2022))
-+ 『2022』Rikai：分析并理解大规模视频内容的开源引擎 [Video](https://sh2021.livevideostack.cn/live/5002)
++ 『2022』Rikai：分析并理解大规模视频内容的开源引擎 ([Video](https://sh2021.livevideostack.cn/live/5002))
 + 『2021』Large Scale Video Data Analysis at Tubi ([Slides and Video](https://www.slidestalk.com/openLooKeng/18))
 + 『2020』AST Manipulation and Pattern Matching in Scala ([Code](https://github.com/sadhen/Arithmetic)/[Slides](https://github.com/sadhen/Arithmetic/blob/master/slides.md)/[Bilibili](https://www.bilibili.com/video/BV1Qa4y1L7dj))
 + 『2019』GNU TeXmacs: 一个科技编辑平台 ([Slides](https://www.slidestalk.com/u282/GNUTeXmacsSFD2019)/[Bilibili](https://www.bilibili.com/video/BV19741167ik))
