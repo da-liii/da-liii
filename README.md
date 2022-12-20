@@ -6,6 +6,7 @@
 + 『2018』「译者」《Scala实用指南》([豆瓣](https://book.douban.com/subject/30249691/)/[异步社区](https://www.epubit.com/bookDetails?id=N14723))
 
 ## Meetups/Slides/Videos
++ 『2022』Pants: the missing build tool for Python ([Video](https://www.bilibili.com/video/BV1Ce411w7Xm/)/[Slides](https://github.com/da-tubi/pants-for-python-engineers/blob/main/slides.tm))
 + 『2022』漫谈数据和AI的融合：Rikai核心设计 ([Slides and Video](https://www.slidestalk.com/rikai/RikaiCoreDesign2022))
 + 『2022』Rikai：分析并理解大规模视频内容的开源引擎 ([Video](https://sh2021.livevideostack.cn/live/5002))
 + 『2021』Large Scale Video Data Analysis at Tubi ([Slides and Video](https://www.slidestalk.com/openLooKeng/18))
