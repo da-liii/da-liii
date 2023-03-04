@@ -8,6 +8,7 @@ Follow me on [Mastodon](https://mathstodon.xyz/@da)!
 + 『2018』「译者」《Scala实用指南》([豆瓣](https://book.douban.com/subject/30249691/)/[异步社区](https://www.epubit.com/bookDetails?id=N14723))
 
 ## Meetups/Slides/Videos
++ 『2022』Pants: Python工程化必备构建工具 (PyCon China 2022 杭州站) ([Video](https://www.bilibili.com/video/BV1L3411S76J/))
 + 『2022』Pants: the missing build tool for Python ([Video](https://www.bilibili.com/video/BV1Ce411w7Xm/)/[Slides](https://github.com/da-tubi/pants-for-python-engineers/blob/main/slides.tm))
 + 『2022』墨干编辑器的核心概念和技术架构([Video](https://www.bilibili.com/video/BV1RR4y1k74X/))
 + 『2022』漫谈数据和AI的融合：Rikai核心设计 ([Slides and Video](https://www.slidestalk.com/rikai/RikaiCoreDesign2022))
